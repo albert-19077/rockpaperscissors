@@ -1,0 +1,7 @@
+#your data set must be in that format
+Dataset/
+│
+├── train/
+│   ├── paper/       (paper photos)
+│   ├── rock/     (rock photos)
+│   └── scissors/     (scissor photos)
