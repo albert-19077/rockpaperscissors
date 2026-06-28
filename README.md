@@ -1,2 +1,1 @@
-# rockpaperscissors
-Rock Paper Scissors game codes
+# To run the game, you first need to type ‘python train.py’ into the terminal; the epoch process will then begin. Once the epoch process has finished, you can type ‘python diagnose.py’ to see how the code works. After all these steps, you can start the game by typing ‘python live_inference.py’. You must grant access to your webcam for the game to run.
